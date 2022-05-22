@@ -1,3 +1,4 @@
 Hello Git
 Welcome to Git and Github
 Learn git and github.
+Learn new things.
